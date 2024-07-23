@@ -4,18 +4,16 @@
 
 ## Features
 
-- Light/dark mode
-- Signup/login 
-- JWT authentication 
-- Redux-redux toolkit
-- Params based API call
-- Delete the Thread message(pop-up box)
-- Reply the thread (pop-up box)
-- Custom right click options including delete option
-- shortcut key ("R" or "r" to REPLY)
-- shortcut key ("D" or "d" to DELETE)
-- responsive for bigger screen sizes
-
+- Light/Dark mode
+- Signup/Login functionality
+- JWT authentication
+- Redux & Redux Toolkit integration
+- Params-based API calls
+- Delete thread messages (with pop-up confirmation)
+- Reply to threads (with pop-up)
+- Custom right-click options, including delete
+- Keyboard shortcuts: "R" or "r" to REPLY, "D" or "d" to DELETE
+- Responsive design for larger screens
 
 
 ## Acknowledgements
@@ -30,27 +28,16 @@
  - [Json Web Token](https://www.npmjs.com/package/jsonwebtoken)
 
 
-## Demo
-
-### https://reachinbox-assignment-riyaz.vercel.app/
-
-## Demo Video
-
-#### https://drive.google.com/file/d/1pifC775NI5bmgvx7T_cJsYqaP9Z9_aPs/view
-
-
-
-
 ## Tech Stack 
 
 - ReactJS
 - Redux
-- Redux toolkit
+- Redux Toolkit
 - Tailwind CSS
 - MomentJS
-- Json Web Token
-- Javascript
-- axios
+- JSON Web Token
+- JavaScript
+- Axios
 - CSS
 
 ## Installation
