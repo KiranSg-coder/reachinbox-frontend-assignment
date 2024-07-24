@@ -49,8 +49,10 @@
 
 ```npm run dev```
 
+##Demo Link
 
-    
+- https://reachinbox-frontend-assignment-krn.vercel.app
+
 ## Screenshots
 
 ![app UI 2](https://github.com/iam-riyaz/reachinbox_assignment/assets/97458162/ccd6af37-12e1-4d58-8f11-c72b8ebf44e7)
